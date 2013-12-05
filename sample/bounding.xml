@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HBProfile>
+  <Name>ghost iron ore bounding.xml</Name>
+  <MinDurability>0.4</MinDurability>
+  <MinFreeBagSlots>1</MinFreeBagSlots>
+  <MinLevel>1</MinLevel>
+  <MaxLevel>999</MaxLevel>
+  <Factions>99999</Factions>
+  <MailGrey>False</MailGrey>
+  <MailWhite>True</MailWhite>
+  <MailGreen>True</MailGreen>
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <SellPurple>False</SellPurple>
+
+<Vendors>
+</Vendors>
+
+<Mailboxes>
+</Mailboxes>
+
+<Blackspots>
+</Blackspots>
+
+<Hotspots>
+    <Hotspot X="361.3027" Y="2037.9176" Z="502.8499"  />
+    <Hotspot X="324.6694" Y="1839.3927" Z="503.5017"  />
+    <Hotspot X="291.9457" Y="1641.3981" Z="505.4130"  />
+    <Hotspot X="376.2339" Y="1459.1228" Z="507.3896"  />
+    <Hotspot X="456.8145" Y="1274.1320" Z="509.9014"  />
+    <Hotspot X="467.3424" Y="1070.4980" Z="505.0928"  />
+    <Hotspot X="465.7990" Y="868.8218" Z="497.5156"  />
+    <Hotspot X="459.7790" Y="667.4829" Z="491.2058"  />
+    <Hotspot X="444.0942" Y="466.8302" Z="485.5754"  />
+    <Hotspot X="335.5717" Y="290.1878" Z="482.5823"  />
+    <Hotspot X="134.3338" Y="234.8791" Z="481.1544"  />
+    <Hotspot X="-17.9432" Y="366.1691" Z="476.5897"  />
+    <Hotspot X="-29.8752" Y="573.0101" Z="484.2788"  />
+    <Hotspot X="-65.3827" Y="771.0925" Z="487.7413"  />
+    <Hotspot X="-117.4291" Y="966.6761" Z="485.6376"  />
+    <Hotspot X="-180.4920" Y="1160.8241" Z="479.5250"  />
+    <Hotspot X="-242.7897" Y="1354.4373" Z="473.7253"  />
+    <Hotspot X="-278.0255" Y="1554.5291" Z="468.8528"  />
+    <Hotspot X="-346.7550" Y="1743.3754" Z="467.3368"  />
+    <Hotspot X="-334.7628" Y="1944.1472" Z="463.1281"  />
+    <Hotspot X="-273.4281" Y="2136.6907" Z="451.7652"  />
+    <Hotspot X="-91.4823" Y="2218.3179" Z="413.0042"  />
+    <Hotspot X="105.6330" Y="2176.0071" Z="401.4438"  />
+</Hotspots>
+
+</HBProfile>
