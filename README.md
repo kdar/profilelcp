@@ -14,6 +14,6 @@ Once you're done recording and have the profile saved, just run it through profi
 Visualizing what it does
 ========================
 
-Below is a plot of what this program basically does. The black dots are all the hotspots recorded using HonorBuddy. I flew around the perimiter to make a bounding box. ProfileLCP will then make random hotspots within this bounding box, shown in red.
+Below is a plot of what this program basically does. The black dots are all the hotspots recorded using HonorBuddy. I flew around the perimeter to make a bounding box. ProfileLCP will then make random hotspots within this bounding box, shown in red.
 
 ![ProfileLCP Plot](https://raw.githubusercontent.com/kdar/profilelcp/master/sample/output.png)
